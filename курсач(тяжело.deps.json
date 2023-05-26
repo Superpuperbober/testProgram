@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "курсач(тяжело/1.0.0": {
+        "runtime": {
+          "курсач(тяжело.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "курсач(тяжело/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
